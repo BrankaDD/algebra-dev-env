@@ -1,7 +1,9 @@
 1. Uključite Handlebars biblioteku na stranicu koristeći CDN.
-2. Proučite Pokemon API (https://pokeapi.co/)
-3. Kreirajte XHR request na API koji dohvaća prvih 20 Pokemon vrsta koje su žute boje
+2. Proučite COVID-19 API (api.covid19api.com)
+3. Kreirajte FETCH request na API koji dohvaća statistike COVID-19 u svijetu
 4. Kreirajte HTML stiliziranu tablicu dobivenih rezultata koristeći Handlebars
 5. Lista mora sadržavati:
-    - redni broj
-    - ime vrste koje je ujedno i link na API endpoint sa vise informacija o vrsti
+    - Redni broj
+    - Državu
+    - Total Cases
+    - Total Deaths
